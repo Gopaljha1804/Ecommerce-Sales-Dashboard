@@ -1,6 +1,6 @@
 # 🛍️ Ecommerce-Sales-Dashboard | Power BI Project
 
-Welcome to the **Ecommerce Sales Dashboard**, a visually rich and interactive business intelligence solution built using **Power BI**. This dashboard provides end-to-end insights into ecommerce performance metrics like sales, profits, quantity, and customer behavior — all in one p[lace.
+Welcome to the **Ecommerce Sales Dashboard**, a visually rich and interactive business intelligence solution built using **Power BI**. This dashboard provides end-to-end insights into ecommerce performance metrics like sales, profits, quantity, and customer behavior — all in one place.
 
 ![Dashboard Preview](https://github.com/Gopaljha1804/Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20sales%20Dashboard.png?raw=true)
 ---
